@@ -353,7 +353,7 @@ export default {
 return myContent;
     },
 
-    getTinyContent22444(){
+    getTinyContent22(){
 
      //var myContent = this.$refs['refd1'].getContent();
      
